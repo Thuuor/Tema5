@@ -1,0 +1,57 @@
+2020-11-17 20:19:07 INFO  Version:37 - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2020-11-17 20:19:07 INFO  Version:41 - HHH000412: Hibernate Core {4.0.1.Final}
+2020-11-17 20:19:07 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2020-11-17 20:19:07 INFO  Environment:342 - HHH000021: Bytecode provider name : javassist
+2020-11-17 20:19:07 INFO  Configuration:1920 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2020-11-17 20:19:07 INFO  Configuration:1939 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2020-11-17 20:19:07 INFO  Configuration:714 - HHH000221: Reading mappings from resource: classes/Poblacio.hbm.xml
+2020-11-17 20:19:07 INFO  Configuration:714 - HHH000221: Reading mappings from resource: classes/Comarca.hbm.xml
+2020-11-17 20:19:08 INFO  Configuration:714 - HHH000221: Reading mappings from resource: classes/Institut.hbm.xml
+2020-11-17 20:19:08 INFO  Configuration:2061 - HHH000041: Configured SessionFactory: null
+2020-11-17 20:19:08 INFO  DriverManagerConnectionProviderImpl:90 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-11-17 20:19:08 INFO  DriverManagerConnectionProviderImpl:110 - HHH000115: Hibernate connection pool size: 20
+2020-11-17 20:19:08 INFO  DriverManagerConnectionProviderImpl:113 - HHH000006: Autocommit mode: false
+2020-11-17 20:19:08 INFO  DriverManagerConnectionProviderImpl:127 - HHH000401: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://89.36.214.106/geo_ad]
+2020-11-17 20:19:08 INFO  DriverManagerConnectionProviderImpl:132 - HHH000046: Connection properties: {user=geo_ad, password=****}
+2020-11-17 20:19:09 INFO  Dialect:121 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2020-11-17 20:19:09 INFO  LobCreatorBuilder:120 - HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2020-11-17 20:19:09 INFO  TransactionFactoryInitiator:68 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2020-11-17 20:19:09 INFO  ASTQueryTranslatorFactory:48 - HHH000397: Using ASTQueryTranslatorFactory
+2020-11-17 20:28:13 INFO  Version:37 - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2020-11-17 20:28:13 INFO  Version:41 - HHH000412: Hibernate Core {4.0.1.Final}
+2020-11-17 20:28:13 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2020-11-17 20:28:13 INFO  Environment:342 - HHH000021: Bytecode provider name : javassist
+2020-11-17 20:28:13 INFO  Configuration:1920 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2020-11-17 20:28:13 INFO  Configuration:1939 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2020-11-17 20:28:13 INFO  Configuration:714 - HHH000221: Reading mappings from resource: classes/Poblacio.hbm.xml
+2020-11-17 20:28:13 INFO  Configuration:714 - HHH000221: Reading mappings from resource: classes/Comarca.hbm.xml
+2020-11-17 20:28:13 INFO  Configuration:714 - HHH000221: Reading mappings from resource: classes/Institut.hbm.xml
+2020-11-17 20:28:13 INFO  Configuration:2061 - HHH000041: Configured SessionFactory: null
+2020-11-17 20:28:13 INFO  DriverManagerConnectionProviderImpl:90 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-11-17 20:28:13 INFO  DriverManagerConnectionProviderImpl:110 - HHH000115: Hibernate connection pool size: 20
+2020-11-17 20:28:13 INFO  DriverManagerConnectionProviderImpl:113 - HHH000006: Autocommit mode: false
+2020-11-17 20:28:13 INFO  DriverManagerConnectionProviderImpl:127 - HHH000401: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://89.36.214.106/geo_ad]
+2020-11-17 20:28:13 INFO  DriverManagerConnectionProviderImpl:132 - HHH000046: Connection properties: {user=geo_ad, password=****}
+2020-11-17 20:28:13 INFO  Dialect:121 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2020-11-17 20:28:13 INFO  LobCreatorBuilder:85 - HHH000422: Disabling contextual LOB creation as connection was null
+2020-11-17 20:28:13 INFO  TransactionFactoryInitiator:68 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2020-11-17 20:28:13 INFO  ASTQueryTranslatorFactory:48 - HHH000397: Using ASTQueryTranslatorFactory
+2020-11-17 20:28:39 INFO  Version:37 - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2020-11-17 20:28:39 INFO  Version:41 - HHH000412: Hibernate Core {4.0.1.Final}
+2020-11-17 20:28:39 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2020-11-17 20:28:39 INFO  Environment:342 - HHH000021: Bytecode provider name : javassist
+2020-11-17 20:28:39 INFO  Configuration:1920 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2020-11-17 20:28:39 INFO  Configuration:1939 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2020-11-17 20:28:39 INFO  Configuration:714 - HHH000221: Reading mappings from resource: classes/Poblacio.hbm.xml
+2020-11-17 20:28:39 INFO  Configuration:714 - HHH000221: Reading mappings from resource: classes/Comarca.hbm.xml
+2020-11-17 20:28:39 INFO  Configuration:714 - HHH000221: Reading mappings from resource: classes/Institut.hbm.xml
+2020-11-17 20:28:39 INFO  Configuration:2061 - HHH000041: Configured SessionFactory: null
+2020-11-17 20:28:39 INFO  DriverManagerConnectionProviderImpl:90 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-11-17 20:28:39 INFO  DriverManagerConnectionProviderImpl:110 - HHH000115: Hibernate connection pool size: 20
+2020-11-17 20:28:39 INFO  DriverManagerConnectionProviderImpl:113 - HHH000006: Autocommit mode: false
+2020-11-17 20:28:39 INFO  DriverManagerConnectionProviderImpl:127 - HHH000401: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://89.36.214.106/geo_ad]
+2020-11-17 20:28:39 INFO  DriverManagerConnectionProviderImpl:132 - HHH000046: Connection properties: {user=geo_ad, password=****}
+2020-11-17 20:28:39 INFO  Dialect:121 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2020-11-17 20:28:39 INFO  LobCreatorBuilder:85 - HHH000422: Disabling contextual LOB creation as connection was null
+2020-11-17 20:28:39 INFO  TransactionFactoryInitiator:68 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2020-11-17 20:28:39 INFO  ASTQueryTranslatorFactory:48 - HHH000397: Using ASTQueryTranslatorFactory
